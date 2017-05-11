@@ -7,7 +7,7 @@
 ![](https://github.com/liuzhen910201/howToUseGithub/blob/master/repository.png)
 <br>
 <br>
-`命名后 点击创建`
+命名后 点击创建
 ![](https://github.com/liuzhen910201/howToUseGithub/blob/master/newRepository.png)
 <br>
 ## 下载并安装客户端
@@ -24,6 +24,9 @@
  选择ssh key 并创建新的ssh key <br>
  ![](https://github.com/liuzhen910201/howToUseGithub/blob/master/sshkey.png)
   <br>
+  检验是否连接成功
+  `ssh -T git@github.com`
+  
 ## 上传
 在github上创建目录完毕后 克隆至本地 <br>
 ```
