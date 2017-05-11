@@ -1,4 +1,4 @@
-# howToUseGithub github配置 连接本地文件夹 上传 同步
+# github配置 连接本地文件夹 上传代码 同步
 ## 注册
 在[github](https://github.com )官网直接注册 用户名 邮箱 密码
 ## 创建目录
