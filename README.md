@@ -1,5 +1,4 @@
-# howToUseGithub
-利用终端命令行 上传代码至github 并同步更新或删除
+# howToUseGithub github配置 连接本地文件夹 上传 同步
 ## 注册
 在[github](https://github.com )官网直接注册 用户名 邮箱 密码
 ## 创建目录
