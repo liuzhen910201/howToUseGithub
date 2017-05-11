@@ -18,11 +18,12 @@
  `ssh-keygen -t rsa -C "注册邮箱地址"`<br>
  会在当前文件夹下生成一个.ssh的文件夹 打开该文件夹 找到id_rsa.pub的文件并拷贝内容(mac用户可以使用cat或者vi等 windows如果office打不开也可以用text)
  <br>
- 打开github的个人设置选项
+ 打开github的个人设置选项 <br>
  ![](https://github.com/liuzhen910201/howToUseGithub/blob/master/settings.png)
- 选择ssh key 并创建新的ssh key
+ <br>
+ 选择ssh key 并创建新的ssh key <br>
  ![](https://github.com/liuzhen910201/howToUseGithub/blob/master/sshkey.png)
- 
+  <br>
 ## 上传
 在github上创建目录完毕后 克隆至本地 <br>
 ```
