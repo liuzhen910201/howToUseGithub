@@ -27,11 +27,10 @@
  选择ssh key 并创建新的ssh key   <br>
  ![](https://github.com/liuzhen910201/howToUseGithub/blob/master/sshkey.png)
   <br>
-  检验是否连接成功
+  检验是否连接成功 <br>
   ```
   ssh -T git@github.com
   ```
- 
  
 ## 上传
 
