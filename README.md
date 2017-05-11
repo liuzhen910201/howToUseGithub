@@ -50,11 +50,11 @@ git add <filename> //上传全部则是 git add .
 ```
 第二步 版本名
 ```
-git commit -m "版本名"
+git commit -m "版本名"(对应客户端 commit to master)
 ```
 第三步 上传(同步更新)
 ```
-git push //如果不能上传 可以git push -u origin master -f
+git push //如果不能上传 可以git push -u origin master -f (对应客户端 Sync)
 ```
 ## 删除
 先cd到希望删除文件所在的文件夹下（即与目录同名的文件夹）<br>
