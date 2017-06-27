@@ -102,8 +102,22 @@ git log
 查看提交历史，以便确认回退到哪个版本 <br>
 
 ```
+git log　--pretty=oneline
+```
+以行的形式显示 <br>
+```
 git reflog
 ```
 看命令历史，以便确定要前进未来的哪个版本  <br>
+```
+git reset --hard 版本号
+```
+回退或者前进到指定版本 <br>
+提交 <br>
+```
+git push -u origin master -f
+```
+确定回退或前进 <br>
+
 
 
