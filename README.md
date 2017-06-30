@@ -137,3 +137,34 @@ git reset --hard
 git reset --hard origin/master
 ```
 
+## 分支创建，合并
+创建并移动到分支<br>
+```
+git checkout -b <name>
+```
+或者<br>
+```
+git branch <name>
+git checkout <name>
+```
+查看当前分支<br>
+```
+git branch
+```
+
+删除分支<br>
+```
+git branch -d <name>
+```
+合并分支<br>
+例如，将<name>合并至master
+先移动到分支name
+```
+git checkout <name>
+```
+再合并分支<br>
+```
+git merge <name>
+```
+
+
