@@ -166,5 +166,8 @@ git checkout <name>
 ```
 git merge <name>
 ```
-
+同步修改<br>
+```
+git push -u origin master -f
+```
 
