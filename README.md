@@ -126,6 +126,12 @@ git push -u origin master -f
 ```
 确定回退或前进 <br>
 
+出现`Unstaged changes after reset `的解决办法
+```
+git add .
+git reset --hard
+```
+
 ## 取消本地更改
 ```
 git reset --hard origin/master
