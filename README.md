@@ -166,7 +166,7 @@ git checkout <name>
 ```
 git merge <name>
 ```
-同步修改<br>
+如果需要同步修改(将分支的修改同步到当前分支master)<br>
 ```
 git push -u origin master -f
 ```
