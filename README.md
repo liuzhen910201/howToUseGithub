@@ -94,6 +94,13 @@ git status
 
 查看当前文件夹下文件是否被上传至目录或者是否同步更新
 
+## 更新(github修改同步更新至本地仓库)
+在github上修改完成后 
+
+```
+git pull origin master
+```
+
 ## 版本回退
 
 ```
@@ -119,5 +126,8 @@ git push -u origin master -f
 ```
 确定回退或前进 <br>
 
-
+## 取消本地更改
+```
+git reset --hard origin/master
+```
 
