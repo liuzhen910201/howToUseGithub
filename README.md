@@ -170,4 +170,13 @@ git merge <name>
 ```
 git push -u origin master -f
 ```
-
+## 切换用户
+ 有多个账号情况下的用户切换
+ ```
+ git config --global user.email "注册邮箱"
+ ```
+ 
+ 查看当前用户
+  ```
+  git config user.email
+  ```
