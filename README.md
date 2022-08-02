@@ -184,3 +184,15 @@ git push -u origin master -f
   ```
   git config user.email
   ```
+## git push 输入用户名和密码
+先创建 Personal access tokens
+
+<br>
+保持用户名和密码，下一次运行命令时不用再次输入
+ <br>
+ 
+ ```
+  git config --global credential.helper store
+ ``` 
+ 
+ 
