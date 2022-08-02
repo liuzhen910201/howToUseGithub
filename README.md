@@ -188,8 +188,11 @@ git push -u origin master -f
 先创建 Personal access tokens
 
 <br>
-保持用户名和密码，下一次运行命令时不用再次输入<br>
+保持用户名和密码，下一次运行命令时不用再次输入
+ <br>
+ 
  ```
   git config --global credential.helper store
- ```
+ ``` 
+ 
  
