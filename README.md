@@ -185,9 +185,19 @@ git push -u origin master -f
   git config user.email
   ```
 ## git push 输入用户名和密码
-先创建 Personal access tokens
-
+先创建 Personal access tokens<br>
+Setting<br>
+![](https://github.com/liuzhen910201/howToUseGithub/blob/master/setting.png)
+<br>开发者设定<br>
+![](https://github.com/liuzhen910201/howToUseGithub/blob/master/personal%20tokens1.png)
 <br>
+<br>Personal access tokens<br>
+![](https://github.com/liuzhen910201/howToUseGithub/blob/master/personal%20tokens2.png)
+<br>选择期限<br>
+![](https://github.com/liuzhen910201/howToUseGithub/blob/master/personal%20tokens3.png)
+<br>选择权限，创建tokens<br>
+![](https://github.com/liuzhen910201/howToUseGithub/blob/master/personal%20tokens4.png)
+ <br>
 保持用户名和密码，下一次运行命令时不用再次输入
  <br>
  
