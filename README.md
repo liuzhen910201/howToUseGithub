@@ -195,8 +195,13 @@ Setting<br>
 ![](https://github.com/liuzhen910201/howToUseGithub/blob/master/personal%20tokens2.png)
 <br>选择期限<br>
 ![](https://github.com/liuzhen910201/howToUseGithub/blob/master/personal%20tokens3.png)
-<br>选择权限，创建tokens<br>
+<br>选择权限，创建tokens,记住下一个画面的密码（tokens）<br>
 ![](https://github.com/liuzhen910201/howToUseGithub/blob/master/personal%20tokens4.png)
+ <br>
+ git push，输入密码
+ <br>
+ <br>
+ ![](https://github.com/liuzhen910201/howToUseGithub/blob/master/commandline.png)
  <br>
 保持用户名和密码，下一次运行命令时不用再次输入
  <br>
