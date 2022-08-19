@@ -34,6 +34,10 @@
   `
   ssh -T git@github.com
   `
+<br>或<br>
+`
+  ssh -T -p 443 git@ssh.github.com
+  `
  
 ## 上传
 
